@@ -1,2 +1,19 @@
-# Ketter-ohjelmistokehitys
-Ketterä ohjelmistokehitys
+Ketterä ohjelmistokehitys:
+Ketterän kehityksen maailmassa lähdetään siitä, että ei ole olemassa yhtä oikeaa tapaa saavuttaa haluttu lopputulos.
+
+1.Asiakastyytyväisyys ja arvokkaan ohjelmistotuotteen toimittaminen jatkuvasti ovat välttämättömiä, koska epälaatuinen tuote johtaa tyytymättömään asiakkaaseen, jolloin tämä tilanne voi vaikuttaa huonosti kaikkiin asiaan liittyviin.
+Toimitusprosessi on myös koordinoitava hyvin, jotta tarvittava asiakas saa hyvää tuotetta ajoissa.
+
+2.Muuttuvat vaatimukset on otettava huomioon ohjelmistokehitysalalla, jotta voidaan helpottaa hyvän tuotteen tuotantoa ja toimittamista asiakkaille.
+
+3.Toimivien ohjelmistojen toimittamisen on oltava etusijalla vastaavalle tuotantoryhmälle, koska erittäin usein toimittamisen puute voi aiheuttaa vahinkoja asiakkaille, jotka tarvitsevat uutta tuotetta säännöllisesti.
+
+4.Liikemiesten ja kehittäjien läheinen suhde on avain menestykseen ohjelmistokehityksen kannalta, koska toisaalta vaaditaan hyvää tuotantoa ja toisaalta tuotteen kauppaa, jotta ylläpidettäisiin tuotannon ja kulutuksen tasapainoa.
+
+5.Projektien rakentaminen vaatii motivoituneita ja luotettavia henkilöitä, jotta he voivat koordinoida pyrkimyksiään olla oikealla tiellä käyttökelpoisten ja hyödyllisten hankkeiden rakentamisessa.
+
+6.Maailman kehityksen myötä tapaa, jolla kommunikoimme keskenään, on parannettu erittäin tehokkaasti tekniikan avulla. Mutta paras tapa kommunikoida tai neuvotella on silti kasvokkain, mikä on parasta muun muassa. Joten henkilökohtaisten keskustelujen ylläpitäminen on erittäin tärkeää.
+
+7.Toimivat ohjelmistot ovat edistyksen ensisijainen mitta. Koska se saa kaikki osapuolet olemaan tyytyväisiä ja onnellinen.
+
+8.
