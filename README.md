@@ -1,4 +1,5 @@
-Ketterä ohjelmistokehitys:
+                                     Ketterä ohjelmistokehitys:
+                                     
 Ketterän kehityksen maailmassa lähdetään siitä, että ei ole olemassa yhtä oikeaa tapaa saavuttaa haluttu lopputulos.
 
 1.Asiakastyytyväisyys ja arvokkaan ohjelmistotuotteen toimittaminen jatkuvasti ovat välttämättömiä, koska epälaatuinen tuote johtaa tyytymättömään asiakkaaseen, jolloin tämä tilanne voi vaikuttaa huonosti kaikkiin asiaan liittyviin.
