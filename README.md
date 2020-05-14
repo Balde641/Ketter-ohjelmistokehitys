@@ -16,4 +16,8 @@ Toimitusprosessi on myös koordinoitava hyvin, jotta tarvittava asiakas saa hyv�
 
 7.Toimivat ohjelmistot ovat edistyksen ensisijainen mitta. Koska se saa kaikki osapuolet olemaan tyytyväisiä ja onnellinen.
 
-8.
+8.Jotta voidaan ylläpitää jatkuvaa kehitystä kestävän kehityksen kanssa, innovoinnin, sitoutumisen ja joustavuuden on oltava prosessin avaintekijöitä.
+
+9.Tekninen huippuosaaminen ja hyvä suunnittelu ovat myös erittäin tärkeitä tekijöitä, joita ei pidä laiminlyödä, koska hyvin suunniteltu ja erinomainen tuote lisää minkä tahansa tuotteen tuottavuutta.
+
+10.Aina on tärkeää suunnitella, tuottaa, toimittaa ja kyky maksimoida tekemättä jäänyt työ on aina välttämätöntä. Kaikkien vaiheiden hyvä koordinointi alusta loppuun on hienoa, koska pienemmät raot vaiheiden välillä johtavat siihen, että vähemmän työtä ei tehty.
